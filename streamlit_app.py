@@ -1,8 +1,11 @@
 import streamlit 
 
-streamlit.title('this is my new app')
+streamlit.title('My Parents New Healthy Diner')
 
-streamlit.header('Take a breakfast')
-streamlit.text('this is a text')
-streamlit.text('this is a text')
-streamlit.text('this is a text')
+streamlit.header('Breakfast Menu')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado Toast')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
